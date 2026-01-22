@@ -1,0 +1,11 @@
+{
+  "name": "ssh-1password",
+  "version": "1.0.0",
+  "description": "SSH skill for Claude Code using 1Password SSH agent with ControlMaster connection reuse",
+  "author": {
+    "name": "Ignacio Hermosilla"
+  },
+  "repository": "https://github.com/nachogonzalezv99/claude-ssh-1password",
+  "license": "MIT",
+  "keywords": ["ssh", "1password", "controlmaster", "remote", "server"]
+}
