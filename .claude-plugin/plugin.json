@@ -5,7 +5,7 @@
   "author": {
     "name": "Ignacio Hermosilla"
   },
-  "repository": "https://github.com/nachogonzalezv99/claude-ssh-1password",
+  "repository": "https://github.com/ignaciohermosillacornejo/claude-ssh-1password",
   "license": "MIT",
   "keywords": ["ssh", "1password", "controlmaster", "remote", "server"]
 }

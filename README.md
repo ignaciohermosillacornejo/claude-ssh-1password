@@ -31,7 +31,7 @@ mkdir -p ~/.ssh/sockets && chmod 700 ~/.ssh/sockets
 
 ```bash
 # Clone the repo
-git clone https://github.com/nachogonzalezv99/claude-ssh-1password.git
+git clone https://github.com/ignaciohermosillacornejo/claude-ssh-1password.git
 
 # Use with Claude Code
 claude --plugin-dir /path/to/claude-ssh-1password
